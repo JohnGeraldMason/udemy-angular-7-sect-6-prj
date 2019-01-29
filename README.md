@@ -1,4 +1,7 @@
-# MyFirstApp
+# Components & Databinding
+
+![image](https://user-images.githubusercontent.com/2049888/51941975-48ac0d80-23ec-11e9-8bb6-ac5eaacfed56.png)
+![image](https://user-images.githubusercontent.com/2049888/51941996-56619300-23ec-11e9-8032-673d190c6f6c.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
